@@ -1,0 +1,10 @@
+﻿{
+ "appPath": "S:\\QA\\Automation\\Appium\\src\\AskToLogin\\AppInfo\\com.companyname.EAXamarinApp-x86-Signed.apk",
+ "browserDriver":"",
+ "devices":[
+    {
+	  "deviceName":"Pixel_XL_with_Android_10",
+	  "os":"Android"
+    }
+ ]
+}
